@@ -46,7 +46,7 @@ The application is designed to be **easy to use**, **visually clean**, and **pra
 > 📌 *Screenshots taken on Windows 11. UI may vary slightly based on screen resolution.*
 
 ### 🖥 Main Dashboard (Dark Mode)
-![Main Dashboard Dark Mode](screenshots/main_dark.png)
+![Main Dashboard Dark Mode](screenshots/main_dark.jpg)
 
 - Full-screen Tkinter interface  
 - Dark mode enabled by default  
@@ -55,7 +55,7 @@ The application is designed to be **easy to use**, **visually clean**, and **pra
 ---
 
 ### 🌗 Light Mode Interface
-![Light Mode](screenshots/main_light.png)
+![Light Mode](screenshots/main_light.jpg)
 
 - One-click toggle between Dark and Light mode  
 - High-contrast and readable UI  
@@ -63,7 +63,7 @@ The application is designed to be **easy to use**, **visually clean**, and **pra
 ---
 
 ### 🖼 Image Object Detection
-![Image Detection](screenshots/image_detection.png)
+![Image Detection](screenshots/image_detection.jpg)
 
 - Object detection on static images  
 - Bounding boxes and labels drawn using YOLOv8  
@@ -71,7 +71,7 @@ The application is designed to be **easy to use**, **visually clean**, and **pra
 ---
 
 ### 🎬 Video Object Detection
-![Video Detection](screenshots/video_detection.png)
+![Video Detection](screenshots/video_detection.jpg)
 
 - Real-time object detection on video files  
 - Frame-by-frame inference using OpenCV  
@@ -79,7 +79,7 @@ The application is designed to be **easy to use**, **visually clean**, and **pra
 ---
 
 ### 📷 Real-Time Webcam Detection
-![Webcam Detection](screenshots/webcam_detection.png)
+![Webcam Detection](screenshots/webcam_detection.jpg)
 
 - Live object detection using system webcam  
 - Press **Q** to exit camera mode  
